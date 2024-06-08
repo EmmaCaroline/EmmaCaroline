@@ -1,6 +1,6 @@
 ## Hi, I am Emma Caroline Brander
 
-- ###Front-End development### student enjoying every opportunity to learn something new
+- __Front-End development student__ enjoying every opportunity to learn something new
 - Based in Vestfold, Norway
 - I'm currently working on improving my Javascript skills, next up is learning React.js and Next.js
 - I have an interest in landscape photography and hiking, and bring those elements in my projects when possible
