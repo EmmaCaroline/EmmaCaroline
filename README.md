@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying Front-End development at Noroff Higher Vocational College in Norway.
 
-# Web Development Tools I'm currently using:
+### Web Development Tools I'm currently using:
 - Figma
 - Visual Studio Code
 - HTML
