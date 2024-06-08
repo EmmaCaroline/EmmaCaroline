@@ -4,7 +4,7 @@
 - I'm currently working on improving my Javascript skills, next up is learning React.js and Next.js
 - I have an interest in landscape photography and hiking, and bring those elemente in my projects when possible
 
-![portfoliologo](https://github.com/EmmaCaroline/EmmaCaroline/assets/142815353/94df31d9-38c6-4cf8-bd0d-3b69ea0c0053)
+![20240608_223430](https://github.com/EmmaCaroline/EmmaCaroline/assets/142815353/311624ec-2aa7-45cb-867a-707b31b006ce)
 
 
 ### Language and Web Development Tools:
