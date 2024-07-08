@@ -6,8 +6,6 @@
 - Take a look at my portfolio: https://emmacaroline.github.io/portfolio/index.html
 - Contact: emma_caroline_b@outlook.com
 
-![20240608_223430](https://github.com/EmmaCaroline/EmmaCaroline/assets/142815353/311624ec-2aa7-45cb-867a-707b31b006ce)
-
 
 ### Language and Web Development Tools:
 - Figma
