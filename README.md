@@ -5,7 +5,8 @@
 - I'm currently working on improving my Javascript skills, next up is learning React.js and Next.js
 - Take a look at my portfolio: https://emmacaroline.github.io/portfolio/index.html
   
-- Contact: emma_caroline_b@outlook.com, https://www.linkedin.com/in/emma-caroline-brander-111384318/
+- Contact: emma_caroline_b@outlook.com
+- LinkedIn: https://www.linkedin.com/in/emma-caroline-brander-111384318/
 
 
 ### Language and Web Development Tools:
