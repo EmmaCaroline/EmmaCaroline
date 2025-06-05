@@ -1,18 +1,18 @@
-## Hi, I am Emma Caroline Brander
+## Hi there :wave:
 
-- __Front-End development student__ enjoying every opportunity to learn something new
-- Based in Vestfold, Norway
-- I'm currently working on improving my Javascript skills, next up is learning React.js and Next.js
+- :computer: __ I'm a Front-End developer who enjoys every opportunity to learn something new
+- :mountain_snow: Based in Vestfold, Norway
+- :seedling: I'm currently sharpening my frontend skills and expanding into backend development with Python (Flask/Django), Node.js (Express), and PostgreSQL, building on my existing experience with MySQL — aiming to become a fullstack developer.
 ---------------------------------------------------------------------------------------------------------
-- Take a look at my portfolio: https://emmacaroline.github.io/portfolio/index.html  
-- Contact: emma_caroline_b@outlook.com
+- Check out my [portfolio](https://emmacaroline.github.io/portfolio/index.html) 
 - LinkedIn: https://www.linkedin.com/in/emma-caroline-brander-111384318/
 
 
-### Language and Web Development Tools:
-- Figma
-- Visual Studio Code
-- HTML
-- CSS
-- Javascript
-- Tailwind
+### 🛠️ Languages & Web Development Tools
+- **Languages & Markup:** HTML5, CSS3, JavaScript
+- **Frameworks & Libraries:** React, Tailwind CSS
+- **Build & Package Tools:** Vite, NPM
+- **Version Control:** Git
+- **Database:** MySQL
+- **Design & Prototyping:** Figma
+- **Code Editor:** Visual Studio Code
