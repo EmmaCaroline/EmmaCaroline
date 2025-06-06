@@ -3,6 +3,7 @@
 I'm a **Front-End Developer** who enjoys every opportunity to learn something new.  
 
 :mountain_snow: Based in Vestfold, Norway  
+
 :seedling: I'm currently sharpening my frontend skills and expanding into backend development with Python (Flask/Django), Node.js (Express), and PostgreSQL, building on my existing experience with MySQL — aiming to become a fullstack developer.
 
 Check out my [portfolio](https://emmacaroline.github.io/portfolio/index.html)  
