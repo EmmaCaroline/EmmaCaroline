@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Front-End Developer student** who enjoys every opportunity to learn something new.  
+I'm a **Front-End Developer** who enjoys every opportunity to learn something new.  
 
 :mountain_snow: Based in Vestfold, Norway  
 
